@@ -26,3 +26,6 @@
  
 ## Sample in Daily Life
 - การทำธุรกรรมออนไลน์ ล้วนใช้ Cryptology เพื่อเข้ารหัสข้อมูลส่วนตัวและการเงินให้ปลอดภัย
+
+##Frienf Account
+ - [Friend Account GitHub](https://github.com/6430200442)
