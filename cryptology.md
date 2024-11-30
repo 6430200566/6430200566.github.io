@@ -27,7 +27,7 @@
 ## Sample in Daily Life
 - การทำธุรกรรมออนไลน์ ล้วนใช้ Cryptology เพื่อเข้ารหัสข้อมูลส่วนตัวและการเงินให้ปลอดภัย
 
-##Frienf Account
+## Frienf Account
 
- -ชื่อ นางสาวปทิตตา กลิ่นหอม (พลอย)
+ - ชื่อ นางสาวปทิตตา กลิ่นหอม (พลอย)
  - [Friend Account GitHub](https://github.com/6430200442)
