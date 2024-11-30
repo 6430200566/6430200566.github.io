@@ -2,10 +2,13 @@
  
  
 ## CISSP Glossary
+
 - **Cryptology**:  
-  - The science that deals with hidden, disguised, or encrypted information and communications.  
+  - The science that deals with hidden, disguised, or encrypted information and communications.
+   
   - **ChatGPT** ให้ความหมายว่า:  
-    วิทยาศาสตร์ที่เกี่ยวข้องกับข้อมูลและการสื่อสารที่ถูกซ่อนเร้น ปลอมแปลง หรือเข้ารหัสเพื่อปกป้องความลับและความปลอดภัยในการส่งข้อมูล  
+    วิทยาศาสตร์ที่เกี่ยวข้องกับข้อมูลและการสื่อสารที่ถูกซ่อนเร้น ปลอมแปลง หรือเข้ารหัสเพื่อปกป้องความลับและความปลอดภัยในการส่งข้อมูล
+  
   - **Gemini** ให้ความหมายว่า:  
     วิทยาศาสตร์ที่เกี่ยวข้องกับข้อมูลและการสื่อสารที่ถูกซ่อน ปลอมแปลง หรือเข้ารหัส  
  
