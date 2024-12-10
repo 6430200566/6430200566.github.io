@@ -3,7 +3,7 @@
 - ratchaneekorn 
   - dao
 
-![img] (img/ploy.jpg)
+![img] (img/dao.jpg)
 
 
 
