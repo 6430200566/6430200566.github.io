@@ -5,6 +5,11 @@
 
 ![img](img/dao.jpg)
 
+git add img/dao.jpg
+git commit -m "Add dao.jpg"
+git push origin main
+
+
 
 
 
