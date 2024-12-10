@@ -4,7 +4,7 @@
   - dao
  
   
-![รูปดาว](img/dao.png)
+![dao](img/dao.png)
 
 
 
