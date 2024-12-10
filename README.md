@@ -3,7 +3,7 @@
 - ratchaneekorn 
   - dao
    
-![dao](img/dao.png)
+![dao](dao.png)
 
 
 
