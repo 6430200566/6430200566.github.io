@@ -4,7 +4,7 @@
   - dao
  
   
-  ![dao](img/dao.png)
+  ![img](img/dao.png)
 
 
 
