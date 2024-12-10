@@ -3,6 +3,8 @@
 - ratchaneekorn 
   - dao
 
+![รูปดาว](img/dao.png)
+
 
 
 
