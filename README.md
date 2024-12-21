@@ -4,17 +4,4 @@
 - dao
 ![img](image/bba.png)
 
-![6430200566การ์ดปีใหม่](https://6430200566.github.io/newyearcard)
-
-
-
-
-
-
-
-
-
-
-
-
-
+![card](https://6430200566.github.io/newyearcard)
