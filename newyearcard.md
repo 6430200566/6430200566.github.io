@@ -1,1 +1,1 @@
-![image[image/nycard.png]
+![image](mage/nycard.png)
