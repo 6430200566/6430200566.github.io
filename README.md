@@ -2,7 +2,7 @@
 
 - ratchaneekorn 
 - dao
-![ratchaneekorn](ratchaneekorn/bba.png)
+![img](img/bba.png)
 
 
 
