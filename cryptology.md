@@ -30,4 +30,4 @@
 ## Frienf Account
 
  - ชื่อ นางสาวปทิตตา กลิ่นหอม (พลอย)
- - [Friend Account GitHub]([https://github.com/6430200442](https://6430200442.github.io/cryptology ))
+ - [Friend Account GitHub](https://6430200442.github.io/cryptology )
