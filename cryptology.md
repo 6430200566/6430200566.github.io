@@ -4,20 +4,20 @@
 ## CISSP Glossary
 
 - **Cryptology**:  
-  - The science that deals with hidden, disguised, or encrypted information and communications.
+The science that deals with hidden, disguised, or encrypted information and communications.
    
  - **ChatGPT** ให้ความหมายว่า:  
-    วิทยาศาสตร์ที่เกี่ยวข้องกับข้อมูลและการสื่อสารที่ถูกซ่อนเร้น ปลอมแปลง หรือเข้ารหัสเพื่อปกป้องความลับและความปลอดภัยในการส่งข้อมูล
+วิทยาศาสตร์ที่เกี่ยวข้องกับข้อมูลและการสื่อสารที่ถูกซ่อนเร้น ปลอมแปลง หรือเข้ารหัสเพื่อปกป้องความลับและความปลอดภัยในการส่งข้อมูล
  - **Gemini** ให้ความหมายว่า:  
-    วิทยาศาสตร์ที่เกี่ยวข้องกับข้อมูลและการสื่อสารที่ถูกซ่อน ปลอมแปลง หรือเข้ารหัส  
+วิทยาศาสตร์ที่เกี่ยวข้องกับข้อมูลและการสื่อสารที่ถูกซ่อน ปลอมแปลง หรือเข้ารหัส  
  
 ## 2nd Source (NIST)
 - **Cryptology**:  
-  - Originally the field encompassing both cryptography and cryptanalysis. Today, cryptology in the U.S. Government is the collection and/or exploitation of foreign communications and non-communications emitters, known as SIGINT; and solutions, products, and services, to ensure the availability, integrity, authentication, confidentiality, and non-repudiation of national security telecommunications and information systems, known as IA.
+  Originally the field encompassing both cryptography and cryptanalysis. Today, cryptology in the U.S. Government is the collection and/or exploitation of foreign communications and non-communications emitters, known as SIGINT; and solutions, products, and services, to ensure the availability, integrity, authentication, confidentiality, and non-repudiation of national security telecommunications and information systems, known as IA.
 - **ChatGPT** ให้ความหมายว่า:  
-    เดิมทีหมายถึงสาขาวิชาที่ครอบคลุมทั้งการเข้ารหัสข้อมูล (Cryptography) และการวิเคราะห์รหัส (Cryptanalysis) แต่ในปัจจุบันในรัฐบาลสหรัฐฯ คำว่า Cryptology หมายถึงการรวบรวมและ/หรือการใช้ประโยชน์จากการสื่อสารของต่างประเทศ รวมถึงการปล่อยสัญญาณที่ไม่ใช่การสื่อสาร ซึ่งเรียกว่า **SIGINT (Signals Intelligence)** และการพัฒนาวิธีแก้ปัญหา ผลิตภัณฑ์ และบริการเพื่อให้มั่นใจในความพร้อมใช้งาน ความสมบูรณ์ การยืนยันตัวตน ความลับ และการป้องกันการปฏิเสธความรับผิดในระบบการสื่อสารและข้อมูลที่เกี่ยวข้องกับความมั่นคงของชาติ ซึ่งเรียกว่า **IA (Information Assurance)**  
+เดิมทีหมายถึงสาขาวิชาที่ครอบคลุมทั้งการเข้ารหัสข้อมูล (Cryptography) และการวิเคราะห์รหัส (Cryptanalysis) แต่ในปัจจุบันในรัฐบาลสหรัฐฯ คำว่า Cryptology หมายถึงการรวบรวมและ/หรือการใช้ประโยชน์จากการสื่อสารของต่างประเทศ รวมถึงการปล่อยสัญญาณที่ไม่ใช่การสื่อสาร ซึ่งเรียกว่า **SIGINT (Signals Intelligence)** และการพัฒนาวิธีแก้ปัญหา ผลิตภัณฑ์ และบริการเพื่อให้มั่นใจในความพร้อมใช้งาน ความสมบูรณ์ การยืนยันตัวตน ความลับ และการป้องกันการปฏิเสธความรับผิดในระบบการสื่อสารและข้อมูลที่เกี่ยวข้องกับความมั่นคงของชาติ ซึ่งเรียกว่า **IA (Information Assurance)**  
 - **Gemini** ให้ความหมายว่า:  
-    คริปโทโลยี เป็นสาขาวิชาที่ครอบคลุมทั้งการเข้ารหัสและการถอดรหัสลับ
+คริปโทโลยี เป็นสาขาวิชาที่ครอบคลุมทั้งการเข้ารหัสและการถอดรหัสลับ
 
  
 ## Myself
