@@ -3,6 +3,7 @@
  
 ## CISSP Glossary
 
+
 - **Cryptology**:  
 The science that deals with hidden, disguised, or encrypted information and communications.
    
@@ -12,6 +13,7 @@ The science that deals with hidden, disguised, or encrypted information and comm
 วิทยาศาสตร์ที่เกี่ยวข้องกับข้อมูลและการสื่อสารที่ถูกซ่อน ปลอมแปลง หรือเข้ารหัส  
  
 ## 2nd Source (NIST)
+
 
 - **Cryptology**:  
   Originally the field encompassing both cryptography and cryptanalysis. Today, cryptology in the U.S. Government is the collection and/or exploitation of foreign communications and non-communications emitters, known as SIGINT; and solutions, products, and services, to ensure the availability, integrity, authentication, confidentiality, and non-repudiation of national security telecommunications and information systems, known as IA.
