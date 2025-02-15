@@ -6,7 +6,7 @@
   - **Type of Security Control:Techical Control**
 
 
-    ![image]![image](https://github.com/user-attachments/assets/4e5436a4-c94c-4f4a-b2e6-95e188e02c9f)
+    [image](https://github.com/user-attachments/assets/4e5436a4-c94c-4f4a-b2e6-95e188e02c9f)
 
 
 
