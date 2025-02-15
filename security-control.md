@@ -4,6 +4,8 @@
   - **สถานที่:บนipadgen9**
   - **Control Function:Preventive**
   - **Type of Security Control:Techical Control**
+
+
     ![image](https://github.com/user-attachments/assets/3469ff6e-8d65-4c76-a199-2278a954b00b)
 
 
